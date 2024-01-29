@@ -6,7 +6,7 @@
 # authors: spirobel
 # url: https://github.com/spirobel
 gem 'event_emitter', '0.2.6'
-gem 'websocket', '1.2.9'
+gem 'websocket', '1.2.8'
 gem 'websocket-client-simple', '0.3.0'
 gem 'opus-ruby', '1.0.1', { require: false }
 gem 'netrc', '0.11.0'
@@ -17,8 +17,8 @@ gem 'http-cookie','1.0.3'
 gem 'http-accept', '1.7.0', { require: false }
 gem 'rest-client', '2.1.0.rc1'
 
-gem 'discordrb-webhooks', '3.5.0', {require: false}
-gem 'discordrb', '3.5.0'
+gem 'discordrb-webhooks', '3.3.0', {require: false}
+gem 'discordrb', '3.4.0'
 
 #require 'discordrb'
 register_asset 'stylesheets/common/discord-rolesync.scss'
