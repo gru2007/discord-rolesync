@@ -6,7 +6,7 @@
 # authors: spirobel
 # url: https://github.com/spirobel
 gem 'event_emitter', '0.2.6'
-gem 'websocket', '1.2.8'
+gem 'websocket', '1.2.9'
 gem 'websocket-client-simple', '0.3.0'
 gem 'opus-ruby', '1.0.1', { require: false }
 gem 'netrc', '0.11.0'
